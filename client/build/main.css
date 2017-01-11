@@ -1,0 +1,77 @@
+body{
+  font-family: monospace;
+}
+
+img{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+audio{
+  background-color: mediumaquamarine;
+  padding: 30px auto;
+  vertical-align: middle;
+}
+
+.songs-detail{
+  padding: 10px;
+  display: inline-block;
+}
+
+.song-detail{
+  border: 2px solid mediumaquamarine;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 2px auto;
+  width: 300px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.song-detail .song-position{
+  font-size: 40px;
+}
+
+button{
+  padding: 10px;
+  width: 150px;
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: tomato;
+}
+
+button:hover{
+  background-color: mediumaquamarine;
+}
+
+.comment{
+  border-bottom: 1px solid mediumaquamarine;
+  padding: 10px;
+}
+
+.comment-form{
+  margin: 0 auto;
+  width: 70%;
+}
+
+.comment-form input{
+  display: block;
+  margin: 20px 0;
+  padding: 10px;
+  width: 100%;
+}
+
+.comment-form input[type=submit]{
+  width: 100%;
+  padding: 10px;
+  margin 20px auto;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  background-color: mediumaquamarine;
+  border-radius: 5px;
+}
+
+.countries-box{
+  
+}
